@@ -6,6 +6,7 @@
 ;; | 'add1
 ;; | 'sub1
 ;; | 'zero?
+;; | 'if
 ;; | 'cond
 ;; | 'else
 ;; | 'abs
